@@ -1,0 +1,13 @@
+# Model files
+jumpstart_sentiment_model/
+
+# Python
+__pycache__/
+*.py[cod]
+*$py.class
+.ipynb_checkpoints/
+
+# Distribution / packaging
+dist/
+build/
+*.egg-info/
