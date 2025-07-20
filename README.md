@@ -27,7 +27,7 @@ The model is not included in this repository due to size constraints. To use thi
 2. Save the trained model.
 3. Replace the model path in the notebook.
 
-##Implemented with Streamlit
+## Implemented with Streamlit
 
 ![photo_2025-07-20_12-37-23](https://github.com/user-attachments/assets/d925353d-d841-4059-88af-57d3eb6d5969)
 
